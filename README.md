@@ -1,1 +1,1 @@
-# portfolio-website
+You are a junior developer tasked with creating and maintaining your own personal portfolio website using Git and GitHub. This project will help you understand how to create a repository, track changes, and collaborate using GitHub.
